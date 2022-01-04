@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Johnatan 
 
-<p> Sou programador Junior, tenho experiência em JavaScript, React, React Native. E estou estudando TypeScript.</a>
+<p> Sou programador iniciante, estudando as varias tecnolgias de programação existentes no mercado.</a>
 
 - 🔭 Atualmente procurando emprego na área, aceitando propostas;
 - 🚀 Tenho experiência em JavaScript, NodeJs, React e React Native;
