@@ -3,7 +3,6 @@
 <p> Sou programador iniciante, estudando as varias tecnolgias de programação existentes no mercado.</a>
 
 - 🔭 Atualmente procurando emprego na área, aceitando propostas;
-- 🚀 Tenho experiência em JavaScript, NodeJs, React e React Native;
 - 📲 Esse é meu LinkedIn: <a href="https://www.linkedin.com/in/johnatan-barbosa-de-brito-7845631ab/"> Johnatan Barbosa</a>
 
 <div align="center">
